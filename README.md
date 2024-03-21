@@ -1,0 +1,1 @@
+Projeto proposto pela Alura em seu curso de lógica de programação. O arquivo CSS e HTML foram disponibilizados prontos, permitindo que eu fizesse o arquivo em JavaScript com o intuito de treinar lógica de programação.
